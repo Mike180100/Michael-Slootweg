@@ -1,0 +1,86 @@
+body {
+	background: white;
+	color: black;
+	font-family: Raleway, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: Black;
+	font-size: 48px;
+	padding: 10px 0px 10px 0px;
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+	border: 2px solid black;
+	margin:50px;
+	background-color: white;
+	text-align: center;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+footer {
+	background-color: black;
+	padding: 200px 50% 200px;
+	margin: 0;
+}
+footer p {
+	color: white;
+	text-align: center;
+}
+
+#index {
+	color: black;
+	background-color: black;
+	text-align: center;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin: 0px;
+	border: 2px solid black;
+	font-family: Raleway, sans-serif;
+
+}
+
+#index a {
+    display: inline-block;
+    /* You can also add some margins here to make it look prettier */
+    zoom:1;
+    *display:inline;
+    /* this fix is needed for IE7- */
+    padding: 13px 7.5%;
+    margin:0px;
+    text-decoration: none ;
+}
+
+#index ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+#index a:hover {
+	color: black;
+	background-color: white;
+	border: 2px solid black;
+}
+
+.Dropdown {
+	display: none;
+}
+
+#Text p {
+	border:none;
+}
+
+#CV {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+#Contact {
+	margin-left: 10%;
+}
